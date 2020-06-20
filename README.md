@@ -13,6 +13,8 @@
 I'm in a journey trying to learn all kinds of techniques to torture data till it confesses.
 And being a beginner, I share some practices that help me learning new knowledge.
 
+ps: some projects are written in my mother language (pt-br).
+
 **Background in:** loading...
 
 **Links:**
