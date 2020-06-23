@@ -21,7 +21,7 @@ And as a beginner, I want to share some 'projects' that helped me practicing and
 
 
 ## Projects:
-* **Beginner data analysis sheet cheat:** https://github.com/pauloreis-ds/Beginner-data-analysis-sheet-cheat
-* **How to handle missing data - Data Science:** https://github.com/pauloreis-ds/How-to-handle-missing-data
+* **P1:** No_link_for_now
+* **P2:** No_link_for_now
 
 ---
