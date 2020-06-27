@@ -17,3 +17,7 @@ This video helped me in this analysis: https://www.youtube.com/watch?v=dPwLlJkSH
     2. Use the datetime data type for dates and times
     3. Check your work as you go
     4. Consider excluding data if it might not be relevant
+    
+<p align="center">
+  <img src="ted_img2.png" >
+</p>
