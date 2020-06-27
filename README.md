@@ -17,7 +17,7 @@ And as a beginner, I want to share some 'projects' that helped me practicing and
 
 **Links:**
 * [Blog] loading...
-* [LinkedIn] loading...
+* [LinkedIn] https://www.linkedin.com/in/paulo-reis-b1a2101b1/
 
 
 ## Projects:
