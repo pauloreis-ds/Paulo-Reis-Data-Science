@@ -1,6 +1,6 @@
-# PyCon 2019: Data Science Best Practices with pandas
+# Analysis of TED Talks dataset.
 
-    Analysis of TED Talks dataset.
+    PyCon 2019: Data Science Best Practices with pandas.
     
 This video helped me in this analysis: https://www.youtube.com/watch?v=dPwLlJkSHLo&list=WL&index=12&t=248s
 
