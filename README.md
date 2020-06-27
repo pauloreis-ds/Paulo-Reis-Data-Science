@@ -4,7 +4,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/pauloreis-ds)
 
 <p align="center">
-  <img src="banner2.png" >
+  <img src="banner.png" >
 </p>
 
 # Paulo Reis
