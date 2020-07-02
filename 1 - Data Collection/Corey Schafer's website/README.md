@@ -1,7 +1,8 @@
 # Web Scraping with BeautifulSoup and Requests
 
-      Practicing web scraping. There are 2 versions. The second one I did after I had watched the whole video. I encorage you to open both notebooks and
-      analyze the methods in each one of them (above the Agenda you'll see one exemple of the differences).
+      Practicing web scraping. There are 2 versions. The second one I did after I had watched the whole video.
+      I encorage you to open both notebooks and analyze the methods in each one of them 
+      (above the Agenda you'll see one exemple of the differences).
 
 Video that helped me: https://www.youtube.com/watch?v=ng2o98k983k&list=WL&index=32&t=0s
 
@@ -17,29 +18,25 @@ Agenda
  
 #### First try: long and repetitive solution:
 
-                #      Titles
+        # Titles
         page_title_records = soup.find_all('a', class_ = 'entry-title-link')
         titles = []
-
         for title in page_title_records:
             if title.contents[0] == 'Update (2019-09-03)':
                 continue
             else:
                 titles.append(title.contents[0])
 
-
-        #      Post dates
+        # Post dates
         page_post_dates = soup.find_all('time', class_ = 'entry-time')
         post_dates = []
-
         for post_date in page_post_dates:
             if  post_date.text == 'September 3, 2019':
                 continue
             else:
                 post_dates.append(post_date.text)
 
-
-        #      Descriptions
+        # Descriptions
         post_descriptions = soup.find_all('div', class_='entry-content')
         descriptions = []
         not_wanted_description = 'blah blah blah'
@@ -49,11 +46,9 @@ Agenda
             else:
                 descriptions.append(description.p.text)
 
-
-        #      Tags
+        # Tags
         page_tags = soup.find_all('span',class_ = 'entry-tags')
         tags = []
-
         for tag in page_tags:
             tags.append(tag.text[13:-1])
             
