@@ -2,7 +2,7 @@
 
 Video that helped me: https://www.youtube.com/watch?v=DAQNHzOcO5A&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=3&t=0s
 
-Agenda
+    Agenda
       1 - Basic chart
           1.1 Adding some features
               title
