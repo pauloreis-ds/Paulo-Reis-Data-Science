@@ -15,3 +15,7 @@ Video that helped me: https://www.youtube.com/watch?v=DAQNHzOcO5A&list=PLFCB5Dp8
           1.3 figure size
       2 - Bar chart
           2.1 patterns
+
+<p align="center">
+  <img src="my fig.png" >
+</p>
