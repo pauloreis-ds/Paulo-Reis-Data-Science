@@ -3,7 +3,7 @@ Prerequisites: basic pandas knowledge
 
 Video that helped me: https://www.youtube.com/watch?v=0P7QnIQDBJY&t=739s
 
-Agenda
+      Agenda
       1 - Basic line graph (gas prices)
           1.1 Readability
               Text information
