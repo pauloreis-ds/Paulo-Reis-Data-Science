@@ -24,6 +24,8 @@ And as a beginner, I want to share some 'projects' that helped me practicing and
 * **P1:** No_link_for_now
 * **P2:** No_link_for_now
 
-<img align="right" width="50" height="50" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">
+<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">
+
+
 
 ---
