@@ -11,7 +11,7 @@
 <sub>*Future Data Scientist*</sub>
 
 I'm in a journey trying to learn all kinds of techniques to torture data till it confesses.
-And as a beginner, I want to share some 'projects' that helped me practicing and learning new knowledge.
+And as a beginner, I want to share some projects that helped me practicing and learning new knowledge.
 
 **Background in:** loading...
 
