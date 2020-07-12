@@ -49,3 +49,6 @@ The testing set of features is used to evaluate the trained model. **The model i
 <p align="center">
 <img  height="300" src="https://github.com/pauloreis-ds/Paulo-Reis-Ciencia-de-dados/blob/master/3%20-%20An%C3%A1lise%20de%20dados%20(com%20Machine%20Learning)%20-%20Data%20Analysis%20(Machine%20Learning)/just_images/feature_label1.png">
 </p>
+
+
+Check this out: https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva
