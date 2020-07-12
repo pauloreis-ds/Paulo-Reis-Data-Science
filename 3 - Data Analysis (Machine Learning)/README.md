@@ -17,8 +17,8 @@ Machine learning is based on the idea that systems can analyze and learn from da
 
     > A feature briefly explained would be the input you have fed to the system and the label would be the output you are expecting.
 
-    > Features are patterns, colors, forms... or so to speak, 'column names' in the training dataset. Label is the value we want to to predict.
-      The output we get from our model after the training.
+    > Features are patterns, colors, forms... or so to speak, 'column names' in the training dataset. Label is the value we want to to 
+      predict, the output we get from our model after the training.
     
 <p align="center">
 <img  height="300" src="https://github.com/pauloreis-ds/Paulo-Reis-Ciencia-de-dados/blob/master/3%20-%20An%C3%A1lise%20de%20dados%20(com%20Machine%20Learning)%20-%20Data%20Analysis%20(Machine%20Learning)/just_images/feature_label.png">
