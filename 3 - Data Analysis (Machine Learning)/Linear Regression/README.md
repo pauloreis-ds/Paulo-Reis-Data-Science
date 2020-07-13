@@ -1,6 +1,6 @@
 # Linear Regression
 
-Agenda
+      Agenda
       1 - Reading dataset
       2 - Data Exploration and Manipulation
       3 - Linear Regression
