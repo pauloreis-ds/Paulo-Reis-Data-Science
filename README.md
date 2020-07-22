@@ -26,6 +26,6 @@ And as a beginner, I want to share some projects that helped me practicing and l
 
 <img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">
 
-
-
 ---
+
+Checklist for Data Science Projects: https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Checklist%20for%20Data%20Science%20Projects.ipynb
