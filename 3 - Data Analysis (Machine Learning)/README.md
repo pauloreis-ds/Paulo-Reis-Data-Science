@@ -18,6 +18,10 @@ with minimal human intervention.
 
     > Briefly explained, a feature would be the input data that you provided to the system and the 
       label would be the output (the answer/prediction) that is expected.
+      Example: classifying/predicting geometric figures.
+
+              input                                                               output
+    features = [number_of_sides, number_of-diagonals...] --> Model(features) -->  Hexagon     
 
     > Features are patterns, colors, shapes ... that is, 'column names' in the training data set.
       Label is the value we want to predict. The answer we get from our model after training.
