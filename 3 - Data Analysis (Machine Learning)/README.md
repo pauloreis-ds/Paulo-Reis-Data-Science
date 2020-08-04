@@ -50,9 +50,9 @@ Training (X and y) acts on the model (makes it learn the pattern on the data).
 
 Test (X and y) validates the model.
 
-The training resources are the data we provide to our model during training, along with the correct answers. The goal is for the model to map between features and labels.
+The training resources/features (training_X) are the data we provide to our model during training, along with the correct answers/labels (training_y). The goal is for the model to map between features and labels.
 
-The test subset is used to evaluate the trained model. **The model is not allowed to see the responses to the test suite and must make predictions using training resources only**.
+The test subset is used to evaluate the trained model. **The model is not allowed to see the responses to the test suite and must make predictions using only the learnings from the training resources learning**.
 We know the answers to the test set so that we can compare the test predictions with the answers.
 
 <p align="center">
