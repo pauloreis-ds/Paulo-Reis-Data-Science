@@ -4,7 +4,7 @@ Machine learning is based on the idea that systems can analyze and learn from da
 with minimal human intervention.
 
        In a simplified way:
-         Feature is what we provide for the machine to learn.
+         Feature is what we provide for the machine to "learn"/predict.
          Label is what we want to predict.
 
 <p align="center">
