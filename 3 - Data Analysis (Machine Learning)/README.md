@@ -14,7 +14,7 @@ with minimal human intervention.
 
     The algorithm can find patterns "only" if we provide resources (information) so that it can learn. 
     But after that, to tell us how the data should be classified, It also needs a set of possible classes/values/responses (labels)
-    so that he knows what to do with each data that we enter. So that It knows how to classify them.
+    so that It knows what to do with each data that we enter. So that It knows how to classify them.
 
     > Briefly explained, a feature would be the input data that you provided to the system and the 
       label would be the output (the answer/prediction) that is expected.
