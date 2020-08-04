@@ -46,9 +46,9 @@ The application of ML algorithms is "limited" to:
             - Check the accuracy of the model by comparing the test_y data with the responses provided by the algorithm.
       
 
-Training (X and y): act on the model (makes it learn the pattern on the data).
+Training (X and y) acts on the model (makes it learn the pattern on the data).
 
-Test (X and y): validate the model.
+Test (X and y) validates the model.
 
 The training resources are the data we provide to our model during training, along with the correct answers. The goal is for the model to map between features and labels.
 
