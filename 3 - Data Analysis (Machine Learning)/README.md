@@ -22,9 +22,10 @@ with minimal human intervention.
     Example: classifying/predicting geometric figures.
 
                          (input)                                                    (output)
-    features = [number_of_sides, number_of_diagonals...]  -->  Model(features)  -->  Hexagon     
+    features = [number_of_sides, number_of_diagonals...]  -->  Model(features)  -->  Hexagon 
+    
 
-    > Features are patterns, colors, shapes ... that is, 'column names' in the training data set.
+    > Features are patterns, colors, shapes... that is, 'column names' in the training data set.
       Label is the value we want to predict. The answer we get from our model after training.
       
       
@@ -32,17 +33,17 @@ with minimal human intervention.
 <img  height="300" src="https://github.com/pauloreis-ds/Paulo-Reis-Ciencia-de-dados/blob/master/3%20-%20An%C3%A1lise%20de%20dados%20(com%20Machine%20Learning)%20-%20Data%20Analysis%20(Machine%20Learning)/just_images/feature_label.png">
 </p>
 
-The application of ML algorithms is limited to:
+The application of ML algorithms is "limited" to:
       
-      - Separate training (features - X) and test data (labelS - y)
-            - Training_X and Training_y  
-            - Test_X and Test_y  
+      - Separate training (features = X) and test data (labels - y)
+            - Training_X and Training_y --> The model will learn the (mathematical) relationship between them.  
+            - Test_X and Test_y --> After that, We can see if it's done right.  
       - Create the model
             - Choose the most suitable.
             - Create the model's object() to access its methods.
             - Pass the training data into its 'fit()' (training algorithm) method.
-            - Make predictions with/about the test data.
-            - Check the accuracy of the model by comparing the test data with the responses provided by the algorithm.
+            - Make predictions with/about the test_X data.
+            - Check the accuracy of the model by comparing the test_y data with the responses provided by the algorithm.
       
 
 Training (X and y): act on the model (makes it learn the pattern on the data).
