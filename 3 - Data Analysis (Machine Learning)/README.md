@@ -55,6 +55,9 @@ The training resources/features (training_X) are the data we provide to our mode
 The test subset is used to evaluate the trained model. **The model is not allowed to see the responses to the test suite and must make predictions using only the learnings from the training resources learning**.
 We know the answers to the test set so that we can compare the test predictions with the answers.
 
+[How Do We Actually machine.learning(learn=True) Things?](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/3%20-%20Data%20Analysis%20(Machine%20Learning)/How%20to%20code%20and%20create%20any%20machine%20learning%20model.ipynb) Example on code (to any model).
+
+
 <p align="center">
 <img  height="300" src="https://github.com/pauloreis-ds/Paulo-Reis-Ciencia-de-dados/blob/master/3%20-%20An%C3%A1lise%20de%20dados%20(com%20Machine%20Learning)%20-%20Data%20Analysis%20(Machine%20Learning)/just_images/feature_label1.png">
 </p>
