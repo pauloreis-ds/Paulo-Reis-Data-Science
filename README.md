@@ -3,6 +3,10 @@
 [![GPLv3 license](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/pauloreis-ds)
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/flexseth?trk=profile-badge">Seth Miller</a></div>
+
+
 <p align="center">
   <img src="banner.png" >
 </p>
