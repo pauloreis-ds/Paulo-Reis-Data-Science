@@ -29,3 +29,5 @@ And as a beginner, I want to share some projects that helped me practicing and l
 ---
 
 [Checklist for Data Science Projects](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Checklist%20for%20Data%20Science%20Projects.ipynb)
+
+[Data Science Pipeline](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Data%20Science%20Pipeline.ipynb)
